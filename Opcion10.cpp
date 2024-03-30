@@ -31,10 +31,8 @@ using namespace std;
     }
     
     cout << "---------" << endl;
-    cout << resultado << endl;
-    
+    cout << resultado << endl;    
 //    return 0;
 }
-
 
 

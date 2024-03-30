@@ -23,17 +23,3 @@ using namespace std;
 //return 0;
 }
 
-
-
-/*
-#include <iostream>
-#include <stdlib.h>
-
-using namespace std;
-
-///main(){
-    void Opcion9(){
-
-	
-}
-*/

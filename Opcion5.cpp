@@ -58,16 +58,3 @@ using namespace std;
 //	return 0;
 }
 
-
-
-
-/*
-#include <iostream>
-#include <stdlib.h>
-
-using namespace std;
-
-void Opcion5() {
-	
-}
-*/

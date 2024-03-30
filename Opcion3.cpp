@@ -83,12 +83,7 @@ void Opcion3() {
         }
     } while (opcion != 0);
 
-//    return 0;
-		
+//    return 0;		
 	}
-
-//	 cout << endl<<endl;  
-//return 0;
-
 
 

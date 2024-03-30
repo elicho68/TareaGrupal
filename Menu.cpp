@@ -24,20 +24,20 @@ int main(void) {
     do {
     	//opciones del menu principal
         cout << "Menu: " << endl;
-        cout << "1. Suma, Resta, Multiplicación y División de dos números" << endl;
+        cout << "1. Suma, Resta, Multiplicación y División de dos números." << endl;
         cout << "2. Opcion 2" << endl;
-        cout << "3. Convertir de kilómetros a millas, metros a pulgadas, de libras a kilos y viceversa" << endl;
-        cout << "5. Conversión de números arábigos a romanos (mínimo 1,000)" << endl;
-        cout << "6. Conversión de números Enteros a Letras" << endl;
-        cout << "7. Conversión de números enteros con decimal a letras" << endl;
-        cout << "9. Todas las tablas de multiplicar del 1 al 10" << endl;
-        cout << "10. Crear de forma gráfica la multiplicación manual" << endl;
-        cout << "11. Conversion de decimales a binarios" << endl;
-        cout << "13. Crear Figuras Géometricas Básicas" << endl;
-        cout << "16. Calcular la hipotenusa" << endl;
-        cout << "17. Imprimir una matriz de 3x3" << endl;
-        cout << "18. Imprimir una piramide" << endl;
-        cout << "20. Calcular el porcentaje de un numero" << endl;
+        cout << "3. Convertir de kilómetros a millas, metros a pulgadas, de libras a kilos y viceversa." << endl;
+        cout << "5. Conversión de números arábigos a romanos (mínimo 1,000)." << endl;
+        cout << "6. Conversión de números Enteros a Letras." << endl;
+        cout << "7. Conversión de números enteros con decimal a letras." << endl;
+        cout << "9. Todas las tablas de multiplicar del 1 al 10." << endl;
+        cout << "10. Crear de forma gráfica la multiplicación manual." << endl;
+        cout << "11. Conversion de decimales a binarios." << endl;
+        cout << "13. Crear Figuras Géometricas Básicas." << endl;
+        cout << "16. Calcular la hipotenusa." << endl;
+        cout << "17. Imprimir una matriz de 3x3." << endl;
+        cout << "18. Imprimir una piramide." << endl;
+        cout << "20. Calcular el porcentaje de un numero." << endl;
         cout << "0. Salir" << endl;
         cout << "\nSelecciona una opción: ";
         cin >> opcion;
@@ -101,4 +101,4 @@ int main(void) {
     
     }
     
-    
+

@@ -26,5 +26,6 @@ char opcion;
     //cout << "¡Hasta luego!" << endl;
     system("cls");
     
-}//fin del main
+}
+//fin del main
 

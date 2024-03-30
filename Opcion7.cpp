@@ -83,7 +83,6 @@ string convertirDecimalATexto(int numero) {
     if (!textoParteDecimal.empty())
         cout << " con " << textoParteDecimal;
     cout << endl;
-
 //    return 0;
 }
 

@@ -31,7 +31,6 @@ using namespace std;
             "\nLa division de " << num1 << " / " << num2 << ": " << div;
 	 cout << endl<<endl;  
 //        return 0;
-
     }
 
 
