@@ -51,17 +51,31 @@ int main(void) {
 			case 3:
                 Opcion3();
                 break;
-                
+			case 5:
+                Opcion5();
+                break;                
             case 6:
                 Opcion6();
                 break; 
-				
+            case 7:
+                Opcion7();
+                break; 
+            case 9:
+                Opcion9();
+                break; 								
+            case 10:
+                Opcion10();
+                break;
+
 			case 11:
                 Opcion11();
                 break;	   
                 
             case 13:
                 Opcion13();
+                break; 
+            case 16:
+                Opcion16();
                 break; 
 			case 17:
                 Opcion17();
