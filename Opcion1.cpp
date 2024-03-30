@@ -4,6 +4,7 @@
 
 using namespace std;
 
+//main(){
     void Opcion1() {
 
         int num1, num2, sum, res, mul, div;
@@ -32,8 +33,6 @@ using namespace std;
 //        return 0;
 
     }
-
-
 
 
 
