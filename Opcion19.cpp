@@ -3,14 +3,14 @@
 int main() {
     int numero1, numero2, resultado;
 
-    // Solicitar al usuario que ingrese dos números
+    // Solicitar al usuario que ingrese dos nÃºmeros
     std::cout << "Ingrese el primer numero: ";
     std::cin >> numero1;
 
     std::cout << "Ingrese el segundo numero: ";
     std::cin >> numero2;
 
-    // Restar los dos números
+    // Restar los dos nÃºmeros
     resultado = numero1 - numero2;
 
     // Mostrar el resultado de la resta
